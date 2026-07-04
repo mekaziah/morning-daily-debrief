@@ -1,0 +1,13 @@
+{
+  "location": "Vancouver, WA",
+  "location_latlon": "45.69716592,-122.54920176",
+  "news_feeds": [],
+  "email_since_hours": 12,
+  "email_limit": 20,
+  "email_important_subjects": "urgent,important,action,required,deadline,asap",
+  "calendar_urls": [
+    "https://calendar.google.com/calendar/ical/kenmood%40gmail.com/private-732243dbd288c310bc4aec63dd85b1d4/basic.ics"
+  ],
+  "iss_api_key": "",
+  "google_calendar_id": "primary"
+}
